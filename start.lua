@@ -71,7 +71,7 @@ RunXxX:write([[
 cd $HOME/XxX
 token="]]..database:get(Server_XxX.."Token_XxX")..[["
 rm -fr XxX.lua
-wget "https://raw.githubusercontent.com/XxX/XxX/master/XxX.lua"
+wget "https://raw.githubusercontent.com/XxX33XxX/XxX/master/XxX.lua"
 while(true) do
 rm -fr ../.telegram-cli
 ./tg -s ./XxX.lua -p PROFILE --bot=$token

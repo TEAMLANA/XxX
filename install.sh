@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr XxX.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/XxX/XxX/master/XxX.lua"
+wget "https://raw.githubusercontent.com/XxX33XxX/XxX/master/XxX.lua"
 lua start.lua
 }
 installall(){
